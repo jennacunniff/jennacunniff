@@ -1,0 +1,67 @@
+
+body {
+	background: url('images/stars.gif');}
+
+#nav {
+	font-size: 37px;
+	font-family: "template gothic OT";
+	color:#00ace6;
+	float: left;
+	text-decoration: none;
+	position:fixed;
+	text-align: center;
+  	top:50%;
+  	left:13.5%;
+  	padding:15px;
+    -ms-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);} 
+
+#para {
+	position: absolute;
+	top: 5%;
+  	left:50%;
+  	padding:15px;
+    -ms-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+	font-size: 28;
+	font-family:"euphemia UCAS";
+	color:#00ace6;}
+
+#video {
+  margin-left: auto;
+  margin-right: auto;
+  width: 900px;
+  padding-top: 100px;
+  padding-bottom: 100px;}
+
+a:link {
+  color: #00ace6;
+  text-decoration: none;
+}
+
+a:hover {
+  color:  #00ace6;
+  you can change font-size:  24px;
+}
+
+a:visited {
+  color: #00ace6;
+}
+
+a:active {
+  color: #00ace6;
+}
+
+#Jenna_Cunniff {
+  font-size: 130px;
+  font-family: "Lush";
+  color: #861ca5;
+  line-height: 1.2;
+  text-align: center 
+  left: 23.251px;
+  top: -40.038px;
+  z-index: 2;
+}
+
